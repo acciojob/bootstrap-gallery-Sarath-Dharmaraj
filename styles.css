@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+  cursor: pointer;
+}
